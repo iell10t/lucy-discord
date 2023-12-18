@@ -1,1 +1,1 @@
-# Project Lucy
+# Project Lucy (powered by Discord)
